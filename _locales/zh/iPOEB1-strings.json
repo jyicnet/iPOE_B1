@@ -1,0 +1,16 @@
+{
+    "iPOEB1.neopixelbitrobit_colors|block":"轉為顏色值 %color",
+    "iPOEB1.bitbot_neo_set_color|block":"設置LED為 %color |色",
+    "iPOEB1.bitbot_neo_set_pixel_color|block":"設定 %offset|號LED的顏色為 %color|色",
+    "iPOEB1.bitbot_neo_show|block":"重畫LED",
+    "iPOEB1.bitbot_neo_clear|block":"熄滅LED",
+    "iPOEB1.bitbot_neo_rainbow|block":"設為彩虹燈條模式",
+    "iPOEB1.bitbot_neo_shift|block":"LED跑馬燈",
+    "iPOEB1.bitbot_neo_rotate|block":"LED顏色輪轉",
+    "iPOEB1.bitbot_neo_brightness|block":"設定LED亮度 |%value",
+    "iPOEB1.bitbot_motor|block":"馬達 %motor|速度 %speed",
+    "iPOEB1.bitbot_buzz|block":"蜂鳴器 %flag",
+    "iPOEB1.bitbot_read_line|block":"黑白感應器 %sensor",
+    "iPOEB1.bitbot_read_light|block":"灰度感應器 %sensor",
+    "iPOEB1.bitbot_sonar|block":"超音波距離 %unit"
+}

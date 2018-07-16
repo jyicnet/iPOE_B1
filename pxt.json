@@ -1,0 +1,16 @@
+{
+    "name": "iPOEB1",
+	"version": "0.0.1",
+    "license": "MIT",
+	"public": true,
+    "dependencies": {
+        "core": "*",
+		"neopixel": "github:microsoft/pxt-neopixel#v0.4.2"
+    },
+    "description": "iPOEB1",
+    "files": [
+		"README.md",
+        "main.ts",
+		"_locales/zh/iPOEB1-strings.json"
+    ]
+}
