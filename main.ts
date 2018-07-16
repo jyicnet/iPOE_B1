@@ -86,7 +86,7 @@ enum BBPixelMode {
  * Custom blocks
  */
 //% weight=2 color=#0050BB icon="\uf1b9"
-namespace iPOExB1 {
+namespace iPOE_B1 {
     //let lhRGBLight: APDS9960;
     let neoStrip: Strip;
     //% shim=sendBufferAsm
@@ -204,7 +204,7 @@ namespace iPOExB1 {
                 for (let i = 0; i < n; ++i) {
                     if (i <= v) {
                         let b = i * 255 / n1;
-                        this.setPixelColor(i, iPOExB1.rgb(b, 0, 255 - b));
+                        this.setPixelColor(i, iPOE_B1.rgb(b, 0, 255 - b));
                     }
                     else this.setPixelColor(i, 0);
                 }
