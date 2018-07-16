@@ -1,5 +1,5 @@
 {
-    "name": "iPOExB1",
+    "name": "iPOE_B1",
 	"version": "0.0.1",
     "license": "MIT",
 	"public": true,
@@ -7,10 +7,10 @@
         "core": "*",
 		"neopixel": "github:microsoft/pxt-neopixel#v0.4.2"
     },
-    "description": "iPOExB1",
+    "description": "iPOE_B1",
     "files": [
 		"README.md",
         "main.ts",
-		"_locales/zh/iPOExB1-strings.json"
+		"_locales/zh/iPOE_B1-strings.json"
     ]
 }
