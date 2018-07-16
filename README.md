@@ -1,6 +1,6 @@
-# iPOExB1
+# iPOE_B1
 
-iPOExB1 microbit car
+iPOE_B1 microbit car
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-iPOExB1=github:jyicnet/iPOExB1
+iPOE_B1=github:jyicnet/iPOE_B1
 ```
